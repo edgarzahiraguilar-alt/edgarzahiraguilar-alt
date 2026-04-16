@@ -8,7 +8,7 @@
 - 🎓 Estudiante Activo de Ing en sistemas y cc de la computación.
 - 🎓 3er Año cursando en le universidad de occidente ext montesquieu
 - 🏡 **Guatemala, ciudad Capital**
-- :computer: Cada dia aprendo algo nuevo, en mi proceso de formacion en el mundo de la programacion orientado a Software y Web
+- :computer: Cada dia aprendiendo algo nuevo, en mi proceso de formacion en el mundo de la programacion orientado a Software y Web
 - 📜 Mis cualidades: Curioso, Amable, Apacible, Resilience, Critico, Entusiasta
 - ⚡ Mis gustos : 🎮, 🍔​, ​🥊​
 
